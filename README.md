@@ -5,4 +5,4 @@
 <img width="479" height="664" alt="image" src="https://github.com/user-attachments/assets/a5424a0d-db30-44fe-a2de-fc9732cde342" />
 <img width="1920" height="895" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/da4504ac-8fad-42d3-b032-94553a64a570" />
 <img width="632" height="855" alt="image" src="https://github.com/user-attachments/assets/4913a506-bb2a-48e9-996a-85af1e30d129" />
-
+ile:///C:/Users/UIS-/Downloads/Gráfico Tabla comparativa Ilustrado Violeta - Gráfico — Mozilla Firefox 2_10_2026 11_51_03 a. m..pdf
