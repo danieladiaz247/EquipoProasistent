@@ -8,3 +8,4 @@
 <img width="1084" height="739" alt="Gráfico Tabla comparativa Ilustrado Violeta - Gráfico — Mozilla Firefox 2_10_2026 11_51_03 a  m" src="https://github.com/user-attachments/assets/9065bd53-79d6-42ef-9e17-e530ded2cc66" />
 <img width="1058" height="618" alt="image" src="https://github.com/user-attachments/assets/ad5e2d1e-b44b-4e09-ac2c-5967d7f17b52" />
 <img width="1112" height="674" alt="image" src="https://github.com/user-attachments/assets/8ac6d481-854b-4b5b-ac42-2ab8bb9c3378" />
+<img width="640" height="1600" alt="image" src="https://github.com/user-attachments/assets/0da07470-3e21-41a0-838d-1f5cac5e06ef" />
