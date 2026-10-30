@@ -6,3 +6,4 @@
 <img width="1920" height="895" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/da4504ac-8fad-42d3-b032-94553a64a570" />
 <img width="632" height="855" alt="image" src="https://github.com/user-attachments/assets/4913a506-bb2a-48e9-996a-85af1e30d129" />
 <img width="1084" height="739" alt="Gráfico Tabla comparativa Ilustrado Violeta - Gráfico — Mozilla Firefox 2_10_2026 11_51_03 a  m" src="https://github.com/user-attachments/assets/9065bd53-79d6-42ef-9e17-e530ded2cc66" />
+<img width="1058" height="618" alt="image" src="https://github.com/user-attachments/assets/ad5e2d1e-b44b-4e09-ac2c-5967d7f17b52" />
