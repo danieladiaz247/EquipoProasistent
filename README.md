@@ -16,3 +16,7 @@
 <img width="1600" height="788" alt="image" src="https://github.com/user-attachments/assets/9c92a41b-0a40-4308-8f90-a18b724671a0" />
 <img width="1600" height="709" alt="image" src="https://github.com/user-attachments/assets/d06a6195-c4bb-477e-86a6-a948036b5366" />
 <img width="1569" height="853" alt="image" src="https://github.com/user-attachments/assets/7aafa51e-835e-4cde-9137-871b54813e07" />
+## ## 6. Motivación y Control
+* **La Función Objetivo (Motivación Matemática):** El motor que "mueve" al bot tutor es maximizar la claridad en las explicaciones de programación y minimizar el tiempo en que el estudiante junior resuelve errores de código, priorizando el aprendizaje pedagógico sobre darle la respuesta hecha.
+* **Métricas de Éxito:** Definir el éxito en GitHub evaluando el equilibrio entre la satisfacción del usuario y su independencia resolviendo código.
+* **Conflictos de Motivación:** A veces estas motivaciones entran en conflicto, por ejemplo, cuando el estudiante quiere la solución rápida, pero el objetivo del bot es obligarlo a pensar y aplicar la lógica por sí mismo.
