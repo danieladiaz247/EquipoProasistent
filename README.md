@@ -16,4 +16,5 @@
 <img width="1600" height="788" alt="image" src="https://github.com/user-attachments/assets/9c92a41b-0a40-4308-8f90-a18b724671a0" />
 <img width="1600" height="709" alt="image" src="https://github.com/user-attachments/assets/d06a6195-c4bb-477e-86a6-a948036b5366" />
 <img width="1569" height="853" alt="image" src="https://github.com/user-attachments/assets/7aafa51e-835e-4cde-9137-871b54813e07" />
-Semana 16: Motivación y Control: Para este proyecto, el motor principal que mueve al bot es actuar como un buen tutor de programación para desarrolladores junior. La idea central es lograr que el estudiante realmente entienda la lógica detrás de sus errores de código y aprenda a pensar por sí mismo, en lugar de simplemente darle la solución hecha. El éxito se mide viendo si el usuario queda satisfecho con la ayuda, pero sobre todo, si cada vez es más independiente corrigiendo sus propios bugs. En el camino nos encontramos con un choque de intereses: por un lado, el estudiante siempre va a querer la respuesta rápida para avanzar, pero el bot tiene que frenarlo un poco a propósito para obligarlo a analizar, lo cual a veces genera algo de fricción en la conversación pero cumple mejor con el objetivo pedagógico.
+<img width="318" height="679" alt="image" src="https://github.com/user-attachments/assets/c5bb638a-b018-447e-99da-20f7aef93935" />
+
